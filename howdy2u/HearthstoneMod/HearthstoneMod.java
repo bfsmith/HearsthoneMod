@@ -14,7 +14,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 
 @Mod(modid = HearthstoneMod.modId, name="Hearthstone Mod", version = "0.1")
-@NetworkMod(clientSideRequired=true, serverSideRequired=true)
+@NetworkMod(clientSideRequired=true, serverSideRequired=false)
 public class HearthstoneMod {
 	public static final String modId = "Hearthstone";
 	
