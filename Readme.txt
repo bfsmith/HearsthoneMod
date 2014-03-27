@@ -1,4 +1,4 @@
-Hearthstone mod for Minecraft.
+Hearthstone mod for Minecraft 1.6.4 (requires Forge).
 
 Adds a craftable hearthstone to the game.  When used, it teleports you back to your spawn point.
 
